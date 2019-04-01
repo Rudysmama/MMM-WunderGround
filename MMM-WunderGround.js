@@ -44,7 +44,7 @@ Module.register("MMM-WunderGround", {
 
         retryDelay: 2500,
 
-        apiBase: "http://api.wunderground.com/api/",
+        apiBase: "http://api.weather.com/",
 
         iconTableDay: {
             "chanceflurries": "wi-day-snow-wind",
